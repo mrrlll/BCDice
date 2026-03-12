@@ -10,7 +10,7 @@
 ## 構成
 
 - `patches/0001-nejikure-nejimaki.patch`
-  - `NegikureNegimaki` (`NN`) 対応差分
+  - `NegikureNegimaki` (`NN` / `NA` / `NS`) 対応差分
 - `build-custom-bcdice.sh`
   - `bcdice-js` を clone して patch を適用し、`npm pack` で tgz を生成
 
